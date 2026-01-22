@@ -1,3 +1,5 @@
+This paper proposes a non-parametric Dirichlet model with episodic inference (EINDM) to cluster the evolving short text stream by introducing a window-based low-dimensional semantic term representation which captures the contextual relationships between words. In addition, an episodic inference procedure is introduced to reduce the cluster sparsity in the model. Furthermore, a novel “word specificity” measure is proposed based on neighborhood terms for evolving contexts for individual terms. Extensive empirical evaluation demonstrates that EINDM yields the best performance, in terms of NMI, homogeneity, and cluster purity, compared to recent state-of-the-art clustering models.
+
 # EINDM
 
 J. Kumar, J. Shao, R. Kumar, S. U. Din, C. B. Mawuli, and Q. Yang,  and , "A Context-enhanced Dirichlet Model for Online
