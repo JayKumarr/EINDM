@@ -3,7 +3,7 @@ This paper proposes a non-parametric Dirichlet model with episodic inference (EI
 # EINDM
 
 J. Kumar, J. Shao, R. Kumar, S. U. Din, C. B. Mawuli, and Q. Yang,  and , "A Context-enhanced Dirichlet Model for Online
-Clustering in Short Text Streams," in Expert Systems with Applications, vol. XX, pp. xxx-xxx, Apr. 2023.
+Clustering in Short Text Streams," in Expert Systems with Applications, vol. 228, pp. 120262, Apr. 2023.
 
 * Python 3.7.x:
 
